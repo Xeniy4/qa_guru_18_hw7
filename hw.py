@@ -3,3 +3,9 @@
 # – Реализовать чтение и проверку содержимого каждого файла из архива не распаковывая сам архив
 
 
+from pypdf import PdfReader
+from openpyxl import load_workbook
+
+
+# from csv23 import - Что импортировать?
+
